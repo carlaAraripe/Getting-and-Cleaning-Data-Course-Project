@@ -4,4 +4,4 @@
   
   Codebook.md describes the variables, the data, and transformations to clean up the data.
   
-  
+  'HAR_Mean_Std.txt' and 'HAR_Avg.txt' are tidy data sets obtained in the process.
